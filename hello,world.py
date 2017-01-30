@@ -23,3 +23,5 @@ print("osvald je liny".capitalize())
 
 
 print("ahoj".capitalize())
+
+print ("where am I?")
