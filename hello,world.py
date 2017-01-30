@@ -24,4 +24,4 @@ print("osvald je liny".capitalize())
 
 print("ahoj".capitalize())
 
-print ("where am I?")
+print ("where am I now?")
