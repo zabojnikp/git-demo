@@ -43,3 +43,5 @@ while True:
     if not "-" in retezec:
         print("Nobody wins!")
         break
+
+print ("uz nevim,kde jsem")
